@@ -1,0 +1,7 @@
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\bin\Debug\SwitchingNetwork.exe.config
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\bin\Debug\SwitchingNetwork.exe
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\bin\Debug\SwitchingNetwork.pdb
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\obj\Debug\SwitchingNetwork.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\obj\Debug\SwitchingNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\obj\Debug\SwitchingNetwork.exe
+C:\Users\Bartek\source\repos\SwitchingNetwork\SwitchingNetwork\obj\Debug\SwitchingNetwork.pdb
